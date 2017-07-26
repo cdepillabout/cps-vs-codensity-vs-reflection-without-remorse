@@ -1,3 +1,6 @@
+#!/usr/bin/env stack
+-- stack --resolver lts-8.23 script
+
 {-# LANGUAGE BangPatterns #-}
 {-# LANGUAGE DeriveFunctor #-}
 {-# LANGUAGE GADTs #-}
